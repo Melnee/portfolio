@@ -1,0 +1,10 @@
+*{
+    background-color: red;
+}
+
+#profilePhoto {
+    background-color: blue;
+    background-image: "../profilePhoto.jpg";
+    height: 300px;
+    width: 300px;
+}
